@@ -1,0 +1,35 @@
+
+
+1 utilizar el bert en español --> probar
+
+2 lematizar --> y probamos
+
+2.1 introducir también la longitud de la frase
+
+3 analisis con las etiquetas de ironia y etc --> probamos
+
+intentar ver si hay algún subconjunto del vocabulario que identifique los chistes
+
+4  chistes vocabulario variables marco con etiquetas los chistes y los no chistes
+
+5 poiner learning rate
+
+6 importar humor inglés traducido?
+
+7 Investigar colBERT. ¿Traducir a inglés nuestro train?.
+
+Utilizar colBert conjuntamente con nuestro Bert.
+
+¿Text2TextClassification?
+
+8 stop words
+
+9 lematizar con nuestro propio vocabulario
+
+10 filtrar con los features importances
+
+---
+
+4 hacer lo mismo pero a nivel de subcategoria 
+
+ 
